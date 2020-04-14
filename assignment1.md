@@ -14,8 +14,9 @@
 * This piece was average quality. It does a good job of providing the history of the two fundraising platforms, as well as why ActBlue is outperforming WinRed by such a large margin, as well as getting the important data out front. However, it doesn't make any meaningful data-driven comparisons. Also, the piece could have used another round of edits to address some loose writing. In terms of quality, I give the piece a 3/5.
 * The graphics from ActBlue and WinRed included in the story are simple and straightforward. However, given the fact that NBC News failed to provide any substintive graphics of their own, I don't think this category warrants a score.
 * I give this piece a 2/5 for creativity. They took a big swing and miss on expressing just how mus money $1 billion can mean to political races. Instead they opted for a quick hit as a pary of a blog post. Creativity score: 1/5.
+
 Category | Score 
--------- | ----- 
+-------- | -------- 
 Clarity and accuracy | 9 
 Quality | 3 
 Creativity | 1 
