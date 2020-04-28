@@ -12,7 +12,7 @@ The traditional statistics involved in making this evaluation are readily availa
 
 Understanding how many consecutive days James has played is simpler, but also time intensive. It involves flagging any games played back-to-back throughout his entire career.
 
-###Initial Dataset
+### Initial Dataset
 
 |Season |Team               |Lg |Salary     |W  |L  |W%  |PPG |eFG% |$/Game  |
 |-------|-------------------|---|-----------|---|---|----|----|-----|--------|
