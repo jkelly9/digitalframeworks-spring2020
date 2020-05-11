@@ -44,3 +44,9 @@ filtered_winred_data <- filtered_winred_data %>%
 ```
 write.csv(filtered_winred_data,"filtered_winred_data.csv", row.names = FALSE) 
 ```
+
+## Files
+
+You can see the raw data [here](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/raw_winred_data.csv).
+
+You can see the filtered data [here](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/filtered_winred_data.csv).
