@@ -9,7 +9,7 @@ For assignment 5 I wanted to take the opportunity to get a jump start on gatheri
 Overall, the data cleaning was not that complex. After downloading the data from the FEC website, I did the following: 
 
 1. I started by installing the tidyverse, readr, dplyr and lubridate libraries. In hindsight, I didn't need all of these for what I was doing, but they might come in handy as I carry on with my data analysis.
-..1. ```
+```
 library(tidyverse)
 library(readr)
 library(dplyr)
