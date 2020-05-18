@@ -17,9 +17,14 @@ Also, as a disclaimer, I would like to highlight that I am not forecasting elect
 3.) How did the district vote in the 2016 state Supreme Court race? And how do those results compare to 2019 and 2020?
 * In 2016, also a presidential election year (this time both parties were electing a nominee), the conservative candidate performed even better. Rebecca Bradley, a conservative, earned 59.7% (19,306 votes) of the vote in the three communities. Liberal JoAnne Kloppenburg earned just 40% of the vote (12,921 votes). I'm not sure how to react to this result. On the one hand, Wisconsin gave Sen. Bernie Sanders a key victory against Secretary Hillary Clinton in the Democratic primary, suggesting liberal voters went to the polls in numbers. But Wisconsin was also a big victory for Sen. Ted Cruz, then candidate Donald Trump's main rival, suggesting voters were attracted to Cruz's more mainstream conservatism.
 
-## Democrat challenger Malinowski running against GOP incumbemt in steadily bluer district 
+I would also like to note the election results of the 2018 Wisconsin Supreme Court. Liberal Rebecca Dallet defeated conservative Michael Screnock in the state-wide race, but not in these three communities. In Greendale, Franklin and Greenfield, Screnock earned 53.3% of the vote (9,196 votes) while Dallet earned 46.6% of the vote (8,033 votes).
+ 
 
-Jacob Malinowksi, a 22-year-old political newcomer and recent graduate of Yale University, is challenging incumbent Republican Rep. Ken Skowronski in a district that has shown gorwing support for liberal-leaning candidates in recent years, according to an analysis of state-level nonpartisan elections. 
+## Democrat challenger Malinowski running against GOP incumbemt in up-and-down district for liberals
 
-Skowronski, 82, who was first elected in late 2013 and has not faced a Democratic challenger in his last two campaigns, but results from
+Jacob Malinowksi, a 22-year-old political newcomer and recent graduate of Yale University, is challenging incumbent Republican Rep. Ken Skowronski in a district that has show mixed  support for liberal-leaning candidates in recent years, according to an analysis of state-level nonpartisan elections. 
+
+Skowronski, 82,  was first elected in late 2013 and has not faced a Democratic challenger in his last two campaigns. However, election results from Wisconsin's four most recent state Supreme Court elections suggest that liberal candidates can overperform in the right conditions. 
+
+In 2016, during the country's last presidential primaries, conservative candidate and now Justice Rebecca Bradley earned 59.7% of votes in Greendale, Franklin and Greenfield, the three major communities the 82nd Assembly district encompasses. In 2018 and 2019 -- non-presidential election years -- conservative candidates for the state's high-court received 53.3% and 58% of the vote from the three communities respectively. In April's Supreme Court election, Justice Dan Kelly received 12,944 votes and Jill Karofsky received 12,941 votes, a virtual 50/50 split.  
 
