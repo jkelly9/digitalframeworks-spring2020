@@ -21,10 +21,7 @@ I would also like to note the election results of the 2018 Wisconsin Supreme Cou
 
 ### Data
 
-[2020](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2020%20WISC%20and%20totals.xlsx)
-[2019](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2019%20WISC%20.xlsx)
-[2018](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2018%20WISC.xlsx)
-[2016](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2016%20WISC.xlsx)
+[2020](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2020%20WISC%20and%20totals.xlsx), [2019](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2019%20WISC%20.xlsx), [2018](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2018%20WISC.xlsx), [2016](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2016%20WISC.xlsx)
  
 
 ## Democrat challenger Malinowski running against GOP incumbemt in up-and-down district for liberals
