@@ -18,6 +18,13 @@ Also, as a disclaimer, I would like to highlight that I am not forecasting elect
 * In 2016, also a presidential election year (this time both parties were electing a nominee), the conservative candidate performed even better. Rebecca Bradley, a conservative, earned 59.7% (19,306 votes) of the vote in the three communities. Liberal JoAnne Kloppenburg earned just 40% of the vote (12,921 votes). I'm not sure how to react to this result. On the one hand, Wisconsin gave Sen. Bernie Sanders a key victory against Secretary Hillary Clinton in the Democratic primary, suggesting liberal voters went to the polls in numbers. But Wisconsin was also a big victory for Sen. Ted Cruz, then candidate Donald Trump's main rival, suggesting voters were attracted to Cruz's more mainstream conservatism.
 
 I would also like to note the election results of the 2018 Wisconsin Supreme Court. Liberal Rebecca Dallet defeated conservative Michael Screnock in the state-wide race, but not in these three communities. In Greendale, Franklin and Greenfield, Screnock earned 53.3% of the vote (9,196 votes) while Dallet earned 46.6% of the vote (8,033 votes).
+
+### Data
+
+[2020](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2020%20WISC%20and%20totals.xlsx)
+[2019](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2019%20WISC%20.xlsx)
+[2018](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2018%20WISC.xlsx)
+[2016](https://github.com/jkelly9/digitalframeworks-spring2020/blob/master/2016%20WISC.xlsx)
  
 
 ## Democrat challenger Malinowski running against GOP incumbemt in up-and-down district for liberals
