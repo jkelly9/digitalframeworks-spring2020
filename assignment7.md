@@ -31,3 +31,12 @@ ggplot() +
   geom_point(data = mpg, mapping = aes(x = displ, y = hwy)) + 
   geom_smooth(data = mpg, mapping = aes(x = displ, y = hwy))
 ```
+* These graphs will look the same. The `+ geom_point() + geom_smooth()` code in the first graph simply adopts the already established parameters. Whereas in the second graph we define them twice. You'll get the same result, the second graph is simply more work.
+
+6.) Recreate the R code necessary to generate the following graphs. (From left to right, top to bottom)
+* Graph 1: 
+```
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
+  geom_smooth(se = FALSE) +
+  geom_point()
+```
