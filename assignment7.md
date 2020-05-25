@@ -22,13 +22,12 @@
 * The `se` argument in `geom_smooth` visualizes the margin of error associated with the line being graphed. 
 
 5.) Will these two graphs look different? Why/why not?
-* ```
+```
 ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
   geom_point() + 
   geom_smooth()
- ```
- ```
+  
 ggplot() + 
   geom_point(data = mpg, mapping = aes(x = displ, y = hwy)) + 
   geom_smooth(data = mpg, mapping = aes(x = displ, y = hwy))
- ```
+```
