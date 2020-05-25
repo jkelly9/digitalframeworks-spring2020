@@ -40,3 +40,11 @@ ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
   geom_smooth(se = FALSE) +
   geom_point()
 ```
+* Graph 2: 
+```
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy, group = drv)) +
+  geom_smooth(se = FALSE) +
+  geom_point()
+```
+* Graph 3:
+```
