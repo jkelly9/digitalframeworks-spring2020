@@ -48,3 +48,25 @@ ggplot(data = mpg, mapping = aes(x = displ, y = hwy, group = drv)) +
 ```
 * Graph 3:
 ```
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy, group = drv, color = drv)) +
+  geom_smooth(se = FALSE) +
+  geom_point()
+```
+* Graph 4:
+```
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
+  geom_smooth(se = FALSE) +
+  geom_point(mapping = aes (color = drv))
+```
+* Graph 5:
+```
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
+  geom_smooth(mapping = aes(linetype = drv), se = FALSE) +
+  geom_point(mapping = aes (color = drv))
+```
+* Graph 6:
+```
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
+  geom_point(mapping = aes (color = drv, )) +
+  geom_point(shape = 21, size = 2, color = "white", stroke = 2)
+```
