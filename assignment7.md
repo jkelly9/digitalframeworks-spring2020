@@ -1,3 +1,5 @@
+# Assignment 7
+
 ## 3.6.1 Exercises
 
 1.) What geom would you use to draw a line chart? A boxplot? A histogram? An area chart?
