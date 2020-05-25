@@ -26,8 +26,9 @@
 ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
   geom_point() + 
   geom_smooth()
-
+ ```
+ ```
 ggplot() + 
   geom_point(data = mpg, mapping = aes(x = displ, y = hwy)) + 
   geom_smooth(data = mpg, mapping = aes(x = displ, y = hwy))
-  ```
+ ```
