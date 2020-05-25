@@ -12,3 +12,4 @@
   geom_point() + 
   geom_smooth(se = FALSE)
   ```
+* Based on this code, the graph will contain both the plots of a scatter plot and a smooth line. Highway MPG will be on the Y axis and engine size will be on the X axis. Each point in the scatter plot will be colored based on the type of car it represents. 
