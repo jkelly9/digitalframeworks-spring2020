@@ -46,6 +46,8 @@ Online donations do not account for the entirety of small donations, which are a
 
 Despite initial struggles to attract small-dollar donors, Biden’s fundraising improved once he became the Democrats’ presumptive nominee. Biden formally clinched the nomination Friday.
 
+#### [Data viz 3](https://public.flourish.studio/visualisation/2729399/)
+
 ActBlue said in May that Biden set the single-day and single-hour record for fundraising on its platform. Additionally, the Biden campaign said it raised $8.5 million in online donations during the week Sanders, Warren and former President Barack Obama endorsed the former vice president.
 
 The liberal fundraising platform has experienced little disruption since the start of the COVID-19 pandemic and has added 420,000 new donors through its platform from March 15 through the end of April, an ActBlue spokesperson said. ActBlue remains on pace to raise $3 billion through its platform during this election cycle, the spokesperson said. 
