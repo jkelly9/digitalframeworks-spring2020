@@ -1,7 +1,6 @@
 ### Despite leading in polls, fundraising indicators paint difficult path to White House for Biden
 
-June 8, 2020
-By Jack Kelly
+June 8, 2020 | By Jack Kelly
 
 The push by political campaigns to attract small-dollar donors is squarely in the forefront of the 2020 presidential election. 
 
