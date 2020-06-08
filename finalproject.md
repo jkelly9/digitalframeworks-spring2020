@@ -36,6 +36,8 @@ The Trump campaign said its fundraising is “powering the largest field program
 
 Over the same 15 months, Biden raised $806,684 from 28,904 contributions in Wisconsin via ActBlue, according to FEC filings. It’s important to note that Biden was not the Democrats’ presumptive nominee for most of this 15-month timeframe and that he was running in a contested primary. In comparison, over the same time period, Sen. Bernie Sanders raised $2,860,009 from 158,527 contributions from Wisconsinites on ActBlue, and Sen. Elizabeth Warren raised $1,206,749 in Wisconsin through the platform.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/2729399" data-url="https://flo.uri.sh/visualisation/2729399/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Online donations do not account for the entirety of small donations, which are also still received as cash or checks.
 
 “Joe Biden will always fight for those who have been left behind — that's why our campaign has been powered by working-class Americans and grassroots donors,” Sean Higgins, a Biden campaign spokesman, said in a statement.
