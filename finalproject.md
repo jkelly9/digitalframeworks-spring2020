@@ -28,6 +28,8 @@ Small-dollar online fundraising is primarily being driven by two platforms: ActB
 
 During a 15-month period that ended March 31, theTrump campaign raked in $478,893 from 11,129 Wisconsin contributions via WinRed.
 
+#### [Data viz 1](https://public.flourish.studio/visualisation/2714619/)
+
 The Trump Make America Great Again Committee, a joint fundraising committee benefiting both Trump’s campaign and the Republican National Committee, also brought in $930,613 from 24,808 small-dollar contributions via WinRed from Wisconsinites. Independently, the RNC raised another $271,845 through the platform from 6,332 from Wisconsin-sourced contributions of $200 or less.
 
 “President Trump dominates in small-dollar fundraising because his message resonates with everyday Americans,” Anna Kelly, a Trump Victory spokeswoman, said in a statement.
@@ -36,7 +38,7 @@ The Trump campaign said its fundraising is “powering the largest field program
 
 Over the same 15 months, Biden raised $806,684 from 28,904 contributions in Wisconsin via ActBlue, according to FEC filings. It’s important to note that Biden was not the Democrats’ presumptive nominee for most of this 15-month timeframe and that he was running in a contested primary. In comparison, over the same time period, Sen. Bernie Sanders raised $2,860,009 from 158,527 contributions from Wisconsinites on ActBlue, and Sen. Elizabeth Warren raised $1,206,749 in Wisconsin through the platform.
 
-#### [Data viz 1](https://app.flourish.studio/visualisation/2729399/edit)
+#### [Data viz 2](https://public.flourish.studio/visualisation/2728435/)
 
 Online donations do not account for the entirety of small donations, which are also still received as cash or checks.
 
